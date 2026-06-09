@@ -1,0 +1,19 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "first verision",
+  "license": "ISC",
+  "author": "sanskruti",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "inquirer": "^14.0.2",
+    "qr-image": "^3.2.0",
+    "sillyname": "^0.1.0",
+    "superhero": "^2.14.32",
+    "superheroes": "^4.0.0"
+  }
+}
